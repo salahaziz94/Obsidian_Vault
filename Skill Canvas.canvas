@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"6d54cb282881a438","type":"text","text":"AI Theory (Brightspace)","x":-250,"y":-100,"width":250,"height":60,"color":"3"},
+		{"id":"872b3d0749e8ed35","type":"text","text":"Python Track","x":-500,"y":-100,"width":250,"height":60,"color":"4"},
+		{"id":"e05394711970e7ce","type":"text","text":"SQL Track","x":0,"y":-100,"width":250,"height":60,"color":"6"},
+		{"id":"9efac28bef70833c","type":"text","text":"Portfolio Proof (Github Outputs)","x":250,"y":-100,"width":250,"height":60},
+		{"id":"ea914f6b4fbbcaf3","type":"text","text":"CS50: Weeks 0-3","x":-470,"y":50,"width":190,"height":50,"color":"4"},
+		{"id":"9bfc10f1a5e3ca50","type":"text","text":"AI: Search Logic","x":-205,"y":50,"width":160,"height":50,"color":"3"},
+		{"id":"eff809c0a0e1e7a9","type":"text","text":"Repo 1: Search Algorithim Script","x":265,"y":45,"width":220,"height":55}
+	],
+	"edges":[
+		{"id":"092a855b95a369ef","fromNode":"6d54cb282881a438","fromSide":"bottom","toNode":"9bfc10f1a5e3ca50","toSide":"top"},
+		{"id":"79454f5b483f7d97","fromNode":"872b3d0749e8ed35","fromSide":"bottom","toNode":"ea914f6b4fbbcaf3","toSide":"top"},
+		{"id":"5bddf28481df82a5","fromNode":"9efac28bef70833c","fromSide":"bottom","toNode":"eff809c0a0e1e7a9","toSide":"top"},
+		{"id":"ecdcb567c60f8fcf","fromNode":"ea914f6b4fbbcaf3","fromSide":"right","toNode":"9bfc10f1a5e3ca50","toSide":"left"},
+		{"id":"c04979730ef449d3","fromNode":"9bfc10f1a5e3ca50","fromSide":"left","toNode":"ea914f6b4fbbcaf3","toSide":"right"},
+		{"id":"706cfd52275f33aa","fromNode":"9bfc10f1a5e3ca50","fromSide":"right","toNode":"eff809c0a0e1e7a9","toSide":"left"}
+	]
+}
