@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"6d54cb282881a438","type":"text","text":"AI and Cog Sci (Brightspace)","x":-250,"y":-100,"width":250,"height":60,"color":"3"},
-		{"id":"872b3d0749e8ed35","type":"text","text":"Python Track","x":-500,"y":-100,"width":250,"height":60,"color":"4"},
-		{"id":"9efac28bef70833c","type":"text","text":"Portfolio Proof (Github Outputs)","x":360,"y":-100,"width":250,"height":60},
-		{"id":"eff809c0a0e1e7a9","type":"text","text":"Repo 1: Search Algorithim Script","x":375,"y":50,"width":220,"height":55},
-		{"id":"ea914f6b4fbbcaf3","type":"text","text":"CS50: Weeks 0-3","x":-470,"y":28,"width":190,"height":50,"color":"4"},
-		{"id":"ba231b840e960b19","type":"text","text":"[[Loops in Python]]\n","x":-470,"y":120,"width":250,"height":220},
-		{"id":"9bfc10f1a5e3ca50","type":"text","text":"AI Basics: Search Logic","x":-180,"y":50,"width":160,"height":50,"color":"3"},
-		{"id":"e05394711970e7ce","type":"text","text":"SQL Track","x":40,"y":-100,"width":250,"height":60,"color":"6"}
+		{"id":"872b3d0749e8ed35","type":"text","text":"Python Track","x":-660,"y":-180,"width":250,"height":60,"color":"4"},
+		{"id":"ea914f6b4fbbcaf3","type":"text","text":"CS50: Weeks 0-3","x":-630,"y":0,"width":190,"height":50,"color":"4"},
+		{"id":"ba231b840e960b19","type":"text","text":"[[Loops in Python]]\n[[Exceptions in Python]]","x":-660,"y":140,"width":250,"height":220},
+		{"id":"6d54cb282881a438","type":"text","text":"AI and Cog Sci (Brightspace)","x":-305,"y":-180,"width":250,"height":60,"color":"3"},
+		{"id":"a75bf3ee54b0cb38","type":"text","text":"ISLR Stats and R","x":40,"y":-180,"width":250,"height":60,"color":"5"},
+		{"id":"e05394711970e7ce","type":"text","text":"SQL Track","x":360,"y":-180,"width":250,"height":60,"color":"6"},
+		{"id":"9efac28bef70833c","type":"text","text":"Portfolio Proof (Github Outputs)","x":680,"y":-180,"width":250,"height":60},
+		{"id":"9bfc10f1a5e3ca50","type":"text","text":"AI Basics: Search Logic","x":-260,"y":1,"width":160,"height":50,"color":"3"},
+		{"id":"eff809c0a0e1e7a9","type":"text","text":"Repo 1: Search Algorithim Script","x":680,"y":-1,"width":250,"height":51},
+		{"id":"e1924239aae9ca6d","x":-305,"y":120,"width":300,"height":210,"color":"3","type":"text","text":"**Texts**\n\nhttps://artint.info/3e/html/ArtInt3e.\n\nTariq Rashid - How to Build a Neural Network\n"}
 	],
 	"edges":[
 		{"id":"092a855b95a369ef","fromNode":"6d54cb282881a438","fromSide":"bottom","toNode":"9bfc10f1a5e3ca50","toSide":"top"},
