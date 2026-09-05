@@ -1,20 +1,20 @@
 {
 	"nodes":[
-		{"id":"eff809c0a0e1e7a9","type":"text","text":"Repo 1: Search Algorithim Script","x":680,"y":-1,"width":250,"height":51},
-		{"id":"e1924239aae9ca6d","type":"text","text":"**Texts**\n\nhttps://artint.info/3e/html/ArtInt3e.\n\nTariq Rashid - How to Build a Neural Network\n","x":-85,"y":220,"width":250,"height":180,"color":"3"},
 		{"id":"872b3d0749e8ed35","type":"text","text":"Python Track","x":-880,"y":-620,"width":250,"height":60,"color":"4"},
-		{"id":"ea914f6b4fbbcaf3","type":"text","text":"[CS50](https://cs50.harvard.edu/python/)","x":-850,"y":-407,"width":190,"height":50,"color":"4"},
+		{"id":"ea914f6b4fbbcaf3","type":"text","text":"[CS50P](https://cs50.harvard.edu/python/)","x":-850,"y":-407,"width":190,"height":50,"color":"4"},
 		{"id":"9bfc10f1a5e3ca50","type":"text","text":"AI Basics: Search Logic","x":-340,"y":-620,"width":160,"height":50,"color":"3"},
 		{"id":"6d54cb282881a438","type":"text","text":"AI and Cog Sci (Brightspace)","x":-385,"y":-500,"width":250,"height":60,"color":"3"},
-		{"id":"a75bf3ee54b0cb38","type":"text","text":"ISLR Stats and R","x":235,"y":-620,"width":250,"height":60,"color":"5"},
-		{"id":"ea396b328aa7a4c8","type":"text","text":"Fix/Update ADNI Scripts","x":235,"y":-500,"width":250,"height":60,"color":"5"},
-		{"id":"e05394711970e7ce","type":"text","text":"SQL Track","x":760,"y":-620,"width":250,"height":60,"color":"6"},
-		{"id":"842a0c549dfeeca9","type":"text","text":"[[Symbolic Approaches]]","x":-590,"y":-357,"width":250,"height":60,"color":"3"},
-		{"id":"a02cba1d52a1bd4f","type":"text","text":"[[Sub-symbolic Approaches]]\n","x":-305,"y":-357,"width":250,"height":60,"color":"3"},
-		{"id":"02be385ffd958cbc","type":"text","text":"[[Dynamic Systems]]","x":-15,"y":-357,"width":250,"height":60,"color":"3"},
-		{"id":"9efac28bef70833c","type":"text","text":"Portfolio Proof (Github Outputs)","x":1200,"y":-650,"width":250,"height":60},
 		{"id":"ba231b840e960b19","type":"text","text":"[[Loops in Python]]\n[[Exceptions in Python]]","x":-880,"y":-140,"width":250,"height":220,"color":"4"},
-		{"id":"8fa308c6ecd59d49","x":-880,"y":-297,"width":250,"height":60,"color":"4","type":"text","text":"Weeks 0 - 3:"}
+		{"id":"8fa308c6ecd59d49","type":"text","text":"Weeks 0 - 3:","x":-880,"y":-297,"width":250,"height":60,"color":"4"},
+		{"id":"842a0c549dfeeca9","type":"text","text":"[[Symbolic Approaches]]","x":-590,"y":-200,"width":250,"height":60,"color":"3"},
+		{"id":"a02cba1d52a1bd4f","type":"text","text":"[[Sub-symbolic Approaches]]\n","x":-340,"y":-200,"width":250,"height":60,"color":"3"},
+		{"id":"02be385ffd958cbc","type":"text","text":"[[Dynamic Systems]]","x":-90,"y":-200,"width":250,"height":60,"color":"3"},
+		{"id":"e1924239aae9ca6d","type":"text","text":"**Texts**\n\nhttps://artint.info/3e/html/ArtInt3e.\n\nTariq Rashid - How to Build a Neural Network\n","x":-260,"y":-880,"width":250,"height":180,"color":"3"},
+		{"id":"a75bf3ee54b0cb38","type":"text","text":"ISLR Stats and R","x":35,"y":-620,"width":250,"height":60,"color":"5"},
+		{"id":"ea396b328aa7a4c8","type":"text","text":"Fix/Update ADNI Scripts","x":35,"y":-500,"width":250,"height":60,"color":"5"},
+		{"id":"9efac28bef70833c","type":"text","text":"Portfolio Proof (Github Outputs)","x":605,"y":-1200,"width":250,"height":60},
+		{"id":"eff809c0a0e1e7a9","type":"text","text":"Repo 1: Search Algorithim Script","x":730,"y":-751,"width":250,"height":51},
+		{"id":"e05394711970e7ce","type":"text","text":"SQL Track","x":560,"y":-620,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"092a855b95a369ef","fromNode":"6d54cb282881a438","fromSide":"bottom","toNode":"9bfc10f1a5e3ca50","toSide":"bottom"},
