@@ -8,8 +8,8 @@ A state is a representation of the problem in some "degree" of solution. But the
 
 An algorithm is the "recipe" in which the task can be accomplished. We have _uninformed search_ and _informed search_.  
 	**Uninformed search**: no domain-specific knowledge is used. Unfortunately, this means it can take a very long time to reach solutions.
-		Breadth first search (BFS): tests all the nodes in a given level of the solution tree to see if each is the goal before continuing on to the next level. This is akin to a "queue" or FIFO (first in, first out data structure). Applications of BFS include solving games and puzzles, web crawling, social networking.
-		Depth first search (DFS): goes deep first, then broad: it iteratively expands the left-most child down all levels. This is akin to a "stack" or LIFO (last in, first out data structure). 
+		Breadth first search (BFS): we go through all the nodes in a current 'row', adding each node children, before the next row. This is a queue , where it is a (FIFO) first in, first out structure. The code here in Python would be, to pop(0).
+		Depth first search (DFS): we go through the entire depth in a current 'column', adding each node children, before the next column. This is a stack, where it is (LIFO) last in, first out structure. The code here in Python would be, to pop(-1).
 	**Informed search**: heuristics are used to simplify the search.
 			Not every heuristic is _admissable_. We don't want them that overestimate the true cost or distance to reach the goal state. Manhattan Difference (MD) = absolute difference between the x-coordinates and y-coordinates of two points. |x1-x2| + |y1-y2|
 	
