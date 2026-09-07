@@ -11,8 +11,8 @@
 		{"id":"eff809c0a0e1e7a9","type":"text","text":"Repo 1: Search Algorithim Script","x":730,"y":-751,"width":250,"height":51},
 		{"id":"e05394711970e7ce","type":"text","text":"SQL Track","x":560,"y":-620,"width":250,"height":60,"color":"6"},
 		{"id":"6d54cb282881a438","type":"text","text":"AI and Cog Sci (Brightspace)","x":-375,"y":-500,"width":250,"height":60,"color":"3"},
-		{"id":"842a0c549dfeeca9","type":"text","text":"[[Symbolic Approaches]]","x":-575,"y":-200,"width":200,"height":50,"color":"3"},
-		{"id":"a02cba1d52a1bd4f","type":"text","text":"[[Sub-symbolic Approaches]]\n","x":-365,"y":-200,"width":230,"height":50,"color":"3"},
+		{"id":"842a0c549dfeeca9","type":"text","text":"[[Searches (Week 1)]]","x":-575,"y":-200,"width":200,"height":50,"color":"3"},
+		{"id":"a02cba1d52a1bd4f","type":"text","text":"[[Bayesian Networks (Week 2)]]\n","x":-365,"y":-200,"width":230,"height":50,"color":"3"},
 		{"id":"02be385ffd958cbc","type":"text","text":"[[Dynamic Systems]]","x":-125,"y":-200,"width":250,"height":50,"color":"3"},
 		{"id":"de7983aa8d29774d","type":"text","text":"**Texts** \n\nISLR","x":160,"y":-880,"width":280,"height":180,"color":"5"},
 		{"id":"e1924239aae9ca6d","type":"text","text":"**Texts**\n\nhttps://artint.info/3e/html/ArtInt3e.html\n\nTariq Rashid - How to Build a Neural Network\n","x":-285,"y":-880,"width":250,"height":180,"color":"3"}

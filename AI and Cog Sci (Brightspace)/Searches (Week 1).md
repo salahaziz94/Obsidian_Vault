@@ -11,5 +11,5 @@ An algorithm is the "recipe" in which the task can be accomplished. We have _uni
 		Breadth first search (BFS): we go through all the nodes in a current 'row', adding each node children, before the next row. This is a queue , where it is a (FIFO) first in, first out structure. The code here in Python would be, to pop(0).
 		Depth first search (DFS): we go through the entire depth in a current 'column', adding each node children, before the next column. This is a stack, where it is (LIFO) last in, first out structure. The code here in Python would be, to pop(-1).
 	**Informed search**: heuristics are used to simplify the search.
-			Not every heuristic is _admissable_. We don't want them that overestimate the true cost or distance to reach the goal state. Manhattan Difference (MD) = absolute difference between the x-coordinates and y-coordinates of two points. |x1-x2| + |y1-y2|
+			Not every heuristic is _admissable_. We don't want them that overestimate the true cost or distance to reach the goal state. Manhattan Difference (MD) = absolute difference between the x-coordinates and y-coordinates of two points. |x1-x2| + |y1-y2| (Skipping the rest of these lectures)
 	
